@@ -70,8 +70,8 @@
         "webpack": "^5.2.1"
     },
     "dependencies": {
-        "@babel/plugin-transform-modules-commonjs": "^7.2.0",
-        "@babel/plugin-transform-runtime": "^7.3.4",
+        "@babel/plugin-transform-modules-commonjs": "^7.18.2",
+        "@babel/plugin-transform-runtime": "^7.18.2",
         "@wordpress/babel-plugin-import-jsx-pragma": "^2.2.0",
         "@wordpress/babel-preset-default": "^2.1.0",
         "core-js": "^2.6.5",
